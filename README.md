@@ -1,6 +1,6 @@
 # SfTreeMap Getting Started UWP
 
-This repository contains sample for how to get started with the [Syncfusion UWP TreeMap](https://help.syncfusion.com/uwp/treemap/getting-started) control.
+This repository contains sample to getting started with the [Syncfusion UWP TreeMap](https://help.syncfusion.com/uwp/treemap/getting-started) control.
 
 ## Syncfusion controls
 
