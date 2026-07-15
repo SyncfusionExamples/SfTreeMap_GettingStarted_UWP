@@ -8,7 +8,7 @@
 
   <Identity
     Name="914e3696-d668-45db-8302-cafbcc3f5709"
-    Publisher="CN=RamyaSoundarRajan"
+    Publisher="CN=Syncfusion"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="914e3696-d668-45db-8302-cafbcc3f5709" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
